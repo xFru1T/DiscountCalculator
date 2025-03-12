@@ -1,1 +1,2 @@
 # DiscountCalculator
+calculating the discount
